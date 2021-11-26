@@ -15619,8 +15619,48 @@
   "RootNamespace": "firstApp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\AutorFigura\\Details.cshtml",
+      "TargetPath": "Views\\AutorFigura\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Personal\\Index.cshtml",
       "TargetPath": "Views\\Personal\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15634,8 +15674,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Figura\\Details.cshtml",
+      "TargetPath": "Views\\Figura\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Shared\\_Figura.cshtml",
+      "TargetPath": "Views\\Shared\\_Figura.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Figura\\Create.cshtml",
+      "TargetPath": "Views\\Figura\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15644,8 +15704,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\AutorFigura\\Edit.cshtml",
+      "TargetPath": "Views\\AutorFigura\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\AutorFigura\\Create.cshtml",
+      "TargetPath": "Views\\AutorFigura\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\AutorFigura\\Delete.cshtml",
+      "TargetPath": "Views\\AutorFigura\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Figura\\Edit.cshtml",
+      "TargetPath": "Views\\Figura\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15654,8 +15739,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Figura\\Delete.cshtml",
+      "TargetPath": "Views\\Figura\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\AutorFigura\\Index.cshtml",
+      "TargetPath": "Views\\AutorFigura\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\REYES\\Desktop\\reyes20\\firstApp\\Views\\Figura\\Index.cshtml",
+      "TargetPath": "Views\\Figura\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
